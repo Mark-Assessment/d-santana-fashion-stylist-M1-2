@@ -11344,13 +11344,7 @@ body {
 
   
 }
-.form-section {
-  clear: left;
-  background: url("assets/images/gradient-purple-room-background.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 50vh;
-}
+
 
 .signup-form {
    margin-top: 150px;

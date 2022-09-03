@@ -11391,3 +11391,25 @@ body {
   color: #f16c6b;
   
 }
+
+
+/* Testimonials style */
+
+body{
+  background-color:#eee;
+}
+
+.card{
+  
+  border:none;
+}
+
+.user-content p{
+  margin-top:5px;
+  font-size:12px;
+}
+
+
+.ratings i{
+  color:blue;
+}

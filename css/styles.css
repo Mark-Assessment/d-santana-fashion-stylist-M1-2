@@ -11332,13 +11332,24 @@ body {
 
 }
 /* Form */
+@media only screen and (max-width: 400px)  {
+  .form-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
 
+  .footer-color-background{
+    margin-top: 200px;
+  }
+
+  
+}
 .form-section {
   clear: left;
-  background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+  background: url("assets/images/gradient-purple-room-background.jpg");
   background-size: cover;
   background-position: center;
-  height: 900px;
+  height: 50vh;
 }
 
 .signup-form {

@@ -11413,3 +11413,20 @@ body{
 .ratings i{
   color:blue;
 }
+
+/* Body List style */
+.liststyle {
+
+  margin-top: auto;
+  margin-bottom: 10%;
+}
+
+/* Botton style */
+
+.btn-dark {
+  background-color: #2e1437 !important;
+  text-align: center;
+}
+
+/* Services Feature style */
+

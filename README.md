@@ -1,108 +1,431 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Domenica's Portfolio 1 website
 
-Welcome domenicasantana,
+## User-Centric Frontend Development Milestone Project.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+![Alt text](images/Screenshot_amIresponsive.png)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+Website presents Yoel's portfolio-1 project for a Personal trainer.
+Users will be able to find interesting content in easy and simple way.
 
-## Gitpod Reminders
+This project is for educational purposes and can not be used as a template for a business use.
+Main aim is to build responsive website with HTML and CSS only. I will use Bootstrap framework to keep website consent and clear.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
+## [View life website in github pages](https://yoesk8.github.io/portfolio-project-1/)
 ---
 
-Happy coding!
+# Table of contents
+
+- [UX](#ux)
+    - [Website owner business goals](#website-owner-business-goals)
+    - [User goals](#user-goals)
+        - [New user goals](#new-user-goals)
+        - [Returning user goals](#returning-user-goals)
+        - [Website owner business goals](#website-owner-business-goals)
+    - [User stories](#user-stories)
+    - [Structure of the website](#structure-of-the-website)
+    - [Wireframes](#wireframes)
+    - [Surface](#surface)
+- [Features](#features)
+- [Technology](#technology)
+- [Testing](#testing)
+    - [Functionality testing](#functionality-testing)
+    - [Compatibility testing](#compatibility-testing)
+    - [Code Validation](#code-validation)
+    - [User stories testing](#user-stories-testing)
+    - [Issues found during site development](#issues-found-during-site-development)
+    - [Performance testing](#performance-testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
+- [Screenshots](#screenshots)
+
+
+
+# UX
+
+## Website owner business goals
+
+The main purpose of this website is to help present a Personal trainer and strength and conditioning coach to the public.
+Page owner can present himself, his professional development path, achievements and top skills.
+Also this website is the best place to show types of personal training, his qualifications and personal qualities that make him a suitable choice for his potential clients.
+
+
+## User goals
+
+### New user goals:
+- user is able to find information about the Personal trainer.
+- user can easily locate former and current client testimonials.
+
+
+### Returning user goals:
+- user can learn more about the trainer.
+- user is able to find gallery with pictures of classes and the gym studio used for the sessions.
+- user can send a message to the instructor using a contact form.
+
+## User stories
+
+### As a business owner:
+* I would like to present myself and my offer on the website clearly to potential customers.
+* I need to make sure that my current and new customers will find a professional help with their personal or group training programs.
+* I want my customers to be able to learn how to use my website intuitively and easily.
+* I would like to build and maintain relationship with potential and current customers.
+
+### As a new customer:
+* I wish to find information about the personal trainer and check his qualifications.
+* I would like to be able to contact the trainer with any questions I may have about his services. 
+* I want to join in a fitness group with professional trainer, to find motivation and spend time actively.
+
+### As a returning customer:
+
+* I need to contact my trainer to reschedule my session.
+* I want to show my friend a gallery of pictures of the fitness studio where we can join for a group personal training session.
+
+## Structure of the website
+
+The website is designed to be easy and user-friendy on all type of devices. On desktop, tablet or mobile device there should be no difference for a user to have a fantastic experience. All parts are designed to achieve maximum user satisfaction. User will get some interaction from the interface as links and buttons will have a hover effects.
+
+## Wireframes
+
+I used website balsamiq.cloud to create the wireframes for desktop, tablet and mobile view.
+
+## Desktop View
+
+![Desktop Wireframes](images/Desktop_View.png?raw=true)
+
+## Tablet View
+
+![Tablet Wireframes](images/Tablet_View.png?raw=true) 
+
+## Mobile View
+
+![Mobile Wireframes](images/Mobile_view.png?raw=true) 
+
+## Surface
+
+### Colors
+Main colours used in a project:
+* background color: #ffffff
+* navigation bar color: #212429
+* footer color1: #f0f0f0
+* footer color2: #c0c0c0
+
+### Fonts 
+
+* As a main font I used Lato, and as a backup font sans-serif
+
+### Images
+
+* I used images from [pexels.com](www.pexels.com) and there are credited in [credits](#credits) section.
+
+
+[Back to Table of contents](#table-of-contents)
+___
+# Features
+
+The website consists of 3 pages. One of which is divided into 3 sections. Every page and section is accessible from the navigation menu.
+
+
+The website has below features:
+
+## Navigation bar
+
+* #### Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by a change into a burger menu.
+* Navigation scheme:
+
+    * On left side there is a logo. It can be used as navigation link to the main page.
+    * On right side there are three links or a burger menu.  It contains:
+        * Home
+        * Contact
+        * Gallery
+
+
+
+## Footer
+
+* Footer is consistent on all pages. It has social links centered on it.
+Each link will open in a separate tab in a browser. I've also added hover effects to each of them based on the color of the social media site.
+
+## Home
+
+* ### About section
+
+    * About section includes a description of the personal trainer's personna, qualities, qualifications and approach to personal training
+
+* ### Testimonials section
+
+    * This section includes 3 separate testimonials from former and current clients of the personal trainer in question.
+
+
+
+## Gallery
+
+* This page has pictures of 1 on 1 training session plus pictures of the studio used for the training and its facilities 
+
+## Contact
+
+* Contact form is a main part on this site. User can contact by filling a form with topic of interest.
+There's also an aditional text field to include any additional questions.
+
+##  Future implementations
+
+
+* Add new page with personal training packages descriptions.
+* A blog site with fitness advises.
+* Login site for paid content including videos, exercise's how to, meal planning and healthy meals recipes.
+
+
+[Back to Table of contents](#table-of-contents)
+___
+# Technologies used
+
+### HTML5
+* As a structure language.
+
+### CSS
+* As a style language.
+
+### Bootstrap 
+* Bootstrap as a CSS framework to keep responsive, mobile first aproach.
+
+### Font Awesome
+* As an icon library for a social links.
+
+
+### GitHub
+* As a software hosting platform to keep project in a remote location.
+
+### Git
+* As a version-control system tracking.
+
+### Gitpod
+* As a development hosting platform.
+
+### Balsamiq.cloud
+* As a wireframing tool.
+
+
+
+
+[Back to Table of contents](#table-of-contents)
+
+___
+# Testing
+
+## Functionality testing 
+
+ I used Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
+
+
+## Compatibility testing
+ Site was tested across multiple virtual mobile devices and browsers. I checked all supported devices in Chrome developer tools. 
+ 
+ I tested on hardware devices such as: Ipad air with iOS, Iphone 13 mini with iOS 15.4, Macbook air with MacOS
+
+
+## User stories testing
+
+### As a business owner:
+
+- I would like to present myself and my offer on the website clearly to potential customers.
+    > Name, photo of the instructor and qualifications are on the Home Page in the About section
+
+- I need to make sure that my current and new customers will be able to contact me with any questions on training, exercises or business enquiries
+    > Customers can achieve this by contacting through contact form. They can choose their topic of interest or goal and describe their needs in a message box.
+
+- I want my customers to be able to learn how to use my website intuitively and easily.
+    > Each site has a fixed navigation menu and is accessible at all times. All content is presented with minimalistic approach.
+
+- I would like to build and maintain relationship with potential and current customers.
+    > Customers are able to find a links to social channels at the bottom of each page. Alternatively they can contact via the contact form.
+
+
+### As a new customer:
+- I wish to find information about the personal trainer and check his qualifications.
+    > User can see essential description on the home page, specifically in about section.
+
+- I would like to get in touch with the trainer to ask him about his approach on programing training cycles.
+    > User can find a contact form in contact page. 
+
+
+### As a returning customer:
+- I need to contact my trainer to reschedule my session.
+    > User can find an option 'Reschedule my session' in the contact form in contact page. Alternatively can use social channels found at the bottom of the page.
+
+
+- I want to show my friend pictures of the fitness studio where we can join for a 2 on 1  personal training session.
+    > Gallery page has pictures of both the studio and sessions with other clients in development.
+
+
+---
+## Issues found during site development
+
+* #### Footer not staying at the bottom of the screen in mobile devices
+![testing_issue_1](images/Screenshot_2022-05-03_at_11.20.57.png?raw=true)
+
+When displaying the website on mobile devices, my footer would move to the middle of the screen instead of staying at the bottom, blocking important elements and damaging the overall user experience.
+
+> I fixed it by wrapping the whole page in a div that would act as a container, then setting it's minimum height to 100% of the viewport (vh) and giving it a position of relative. As it is relative it's child elements (In this case the footer) could be set with absolute position based on it.
+
+> Then I set the footer position to absolute, sticking to the bottom:0 
+
+
+
+* #### Form in Contact Page being out of place in mobile devices
+
+![testing_issue_1](images/Screenshot_2022-05-03_at_11.59.47.png?raw=true)
+
+When displayed on mobile devices the form in the contact page would look out of placed and misaligned
+
+> I fixed this by adding a media querie that would add an additional padding of 300px when the height of the screen dropped to below 1200px (Tablets and mobile devices).
+
+> I also had to set the top margin to 0 as it was pushing the whole div downwards
+
+> This pushes the form to a more centred position therefore improving user experience, below the solution:
+
+@media screen and (max-width:1200px) {
+
+.contact {
+  padding-top: 300px;
+  margin-top: 0;
+    
+  }
+
+
+
+## Performance testing
+
+I run [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance of the website.
+I had to do several changes to improve performance, specially replacing images for lighter formats such as .webp which improved the performance significantly. Screenshots are presented below:
+
+
+
+Final results:
+![performance_final](images/Screenshot_2022-05-03_at_14.08.14.png?raw=true)
+
+I noticed that this tests scores vary from time to time and depends on external libraries as well. 
+
+
+
+## Code Validation
+ At the and of the project I used two websites to validate my code
+ 
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
+
+
+ * [Nu Html Checker](https://validator.w3.org/) to test HTML
+
+
+[Back to Table of contents](#table-of-contents)
+
+___
+# Deployment
+
+The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system.
+I used push command in Gitpod to save changes into GitHub.
+
+To deploy a project I had to:
+
+* Log in to GitHub and click on repository to deploy ([portfolio-project-1](https://yoesk8.github.io/portfolio-project-1/))
+* select `Settings` and find GitHub Pages section at the very bottom of the page
+* from source select `root` and then `main` branch.
+* click `save` and page was deployed after auto-refresh.
+>  Your site is published at https://yoesk8.github.io/portfolio-project-1/
+
+To run localy:
+* Log in to GitHub and click on repository to download ([portfolio-project-1](https://yoesk8.github.io/portfolio-project-1/))
+* select `Code` and click Download the ZIP file.
+* after download you can extract the file and use it in your local environment 
+
+Alternatively you can [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+or [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
+this repository ([portfolio-project-1](https://yoesk8.github.io/portfolio-project-1/)) into your github account.
+
+[Back to Table of contents](#table-of-contents)
+___
+# Credits
+
+
+* To complete this project I used Code Institute student template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+
+* Ideas and knowledge library:
+
+    * [w3schools.com](https://www.w3schools.com)
+
+    * [css-tricks.com](https://css-tricks.com/)
+
+    * [getbootstrap.com/docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+        I used code for navbar and the form in contact page from Bootstrap.
+    * [stackoverflow.com](https://stackoverflow.com/) I used stack overflow constantly whenever I was unsure about HTML or CSS syntax or wanted to find an easier more stream-lined way of doing things
+   
+
+* Other Tools:
+  
+   * [ezgif.com](https://ezgif.com/jpg-to-webp/) I used ezgif to convert my images to lighter formats which improved the performance of the site significantly
+
+### Code
+
+
+* Bootstrap: [Navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
+* MDBootstrap: [Sticky footer](https://mdbootstrap.com/snippets/standard/mdbootstrap/2886162#html-tab-view)
+* Bootstrap: [Form](https://getbootstrap.com/docs/4.5/components/forms/)
+* [mdbootstrap.com](https://mdbootstrap.com/snippets/standard/mdbootstrap/2886162#html-tab-view) I used and modified this footer with social media icons
+* [https://bbbootstrap.com/](https://bbbootstrap.com/snippets/simple-contact-form-74408136) I used and modified this form
+
+### General Content:
+
+*  Testimonials:  [trustpilot.com](https://uk.trustpilot.com/review/westlondonpersonaltraining.co.uk)
+
+
+
+
+
+### Images:
+
+#### Pexels.com:
+* [images/pexels-thisisengineering-3912953.jpg](https://www.pexels.com/photo/man-in-black-crew-neck-t-shirt-standing-in-front-of-boxing-gloves-3912953/) Photo by ThisIsEngineering from Pexels 
+
+* [images/pexels-thisisengineering-3912956.jpg](https://www.pexels.com/photo/person-holding-black-tablet-3912956/) Photo by ThisIsEngineering from Pexels
+
+* [images/pexels-thisisengineering-3912952.jpg](https://www.pexels.com/photo/person-holding-black-smartphone-3912952/) Photo by ThisIsEngineering from Pexels 
+
+* [images/pexels-pixabay-416717.jpg](https://www.pexels.com/photo/athlete-barbell-bodybuilder-bodybuilding-416717/) Photo by Pixabay from Pexels
+
+* [images/pexels-bruno-bueno-2204196.jpg](https://www.pexels.com/photo/man-lying-while-doing-barbell-2204196/) Photo by Bruno Bueno from Pexels
+
+* [images/pexels-ivan-samkov-4162451.jpg](https://www.pexels.com/photo/black-and-red-dumbbells-4162451/) Photo by Ivan Samkov from Pexels
+
+* [images/pexels-amar-preciado-9958667.jpg"](https://www.pexels.com/photo/people-in-gym-working-out-with-weightlifting-9958667/) Photo by Amar Preciado from Pexels
+
+* [images/pexels-andres-ayrton-6551097.jpg](https://www.pexels.com/photo/young-asian-male-trainer-checking-fitness-equipment-while-instructing-overweight-female-6551097/) Photo by Andres  Ayrton from Pexels
+
+* [images/pexels-koolshooters-9944640.jpg](https://www.pexels.com/photo/two-people-doing-boxing-9944640/) Photo by KoolShooters from Pexels
+
+* [images/pexels-thisisengineering-3912516.jpg](https://www.pexels.com/photo/man-in-black-crew-neck-t-shirt-standing-inside-boxing-ring-3912516/) Photo by ThisIsEngineering from Pexels 
+
+* [images/pexels-thisisengineering-3912952.jpg](https://www.pexels.com/photo/person-holding-black-smartphone-3912952/) Photo by ThisIsEngineering from Pexels 
+
+
+[Back to Table of contents](#table-of-contents)
+___
+
+# Screenshots
+
+## Project screenshots
+
+### Home Page
+
+![Home Page](images/Screenshot_home_page.png)
+![About-Me](images/Screenshot_about_me.png)
+![Testimonials](images/Screenshot_testimonials_page.png)
+
+### Contact Page
+
+![Contact Page](images/Screenshot_contact_page.png)
+
+### Gallery Page
+
+![Gallery Page](images/screenshot_gallery.png)
+
+
+[Back to Table of contents](#table-of-contents)
+___

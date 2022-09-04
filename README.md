@@ -2,7 +2,7 @@
 
 ## User-Centric Frontend Development Milestone Project.
 
-![Alt text](images/Screenshot_amIresponsive.png)
+![Alt text](docimages/amairesponsive-screenshot.png)
 
 Website presents Yoel's portfolio-1 project for a Personal trainer.
 Users will be able to find interesting content in easy and simple way.
@@ -11,7 +11,7 @@ This project is for educational purposes and can not be used as a template for a
 Main aim is to build responsive website with HTML and CSS only. I will use Bootstrap framework to keep website consent and clear.
 
 
-## [View life website in github pages](https://yoesk8.github.io/portfolio-project-1/)
+## [View life website in github pages](https://domenicasantana.github.io/fashion-stylist/index.html)
 ---
 
 # Table of contents
@@ -103,6 +103,8 @@ I used website balsamiq.cloud to create the wireframes for desktop, tablet and m
 ## Surface
 
 ### Colors
+![palette](docimages/palette-color.png) 
+
 Main colours used in a project:
 * background color: #ffffff
 * navigation bar color: #212429
@@ -300,7 +302,7 @@ I had to do several changes to improve performance, specially replacing images f
 
 
 Final results:
-![performance_final](images/Screenshot_2022-05-03_at_14.08.14.png?raw=true)
+![performance_final](docimages/lighthouse-results.png)
 
 I noticed that this tests scores vary from time to time and depends on external libraries as well. 
 

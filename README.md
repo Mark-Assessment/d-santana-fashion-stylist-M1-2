@@ -4,7 +4,7 @@
 
 ![Alt text](docimages/amairesponsive-screenshot.png)
 
-Website presents Yoel's portfolio-1 project for a Personal trainer.
+Website presents Domenica's portfolio-1 project for a Fashion Personal Stylist.
 Users will be able to find interesting content in easy and simple way.
 
 This project is for educational purposes and can not be used as a template for a business use.
@@ -45,22 +45,22 @@ Main aim is to build responsive website with HTML and CSS only. I will use Boots
 
 ## Website owner business goals
 
-The main purpose of this website is to help present a Personal trainer and strength and conditioning coach to the public.
-Page owner can present himself, his professional development path, achievements and top skills.
-Also this website is the best place to show types of personal training, his qualifications and personal qualities that make him a suitable choice for his potential clients.
+The main purpose of this website is to help present a Personal Stylist to the public.
+Page owner can present herself, her professional development path, and proven achievements.
+Also this website is the best place to show the different types of personal services that she can offer to all customers, assuring new ones , using pictures and  testimony from previous customers.
 
 
 ## User goals
 
 ### New user goals:
-- user is able to find information about the Personal trainer.
-- user can easily locate former and current client testimonials.
+- user is able to find information about the Personal Stylist.
+- user can easily locate  current client testimony.
 
 
 ### Returning user goals:
-- user can learn more about the trainer.
-- user is able to find gallery with pictures of classes and the gym studio used for the sessions.
-- user can send a message to the instructor using a contact form.
+- user can learn more about the Personal Stylist new services.
+- user is able to find gallery with pictures of updated results of new customers .
+- user can send a message to the Stylist using a contact form.
 
 ## User stories
 

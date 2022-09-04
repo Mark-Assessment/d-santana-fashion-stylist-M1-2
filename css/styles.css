@@ -11426,7 +11426,10 @@ body{
 .btn-dark {
   background-color: #2e1437 !important;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 
 /* Services Feature style */
 
@@ -11464,6 +11467,6 @@ body{
     font-weight: 300;
 }
 .highlight {
-    color: #2ac5ed;
+    color: #906090;
     font-weight:bold;
 }                    

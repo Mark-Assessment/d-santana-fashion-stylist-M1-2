@@ -169,19 +169,19 @@ Each link will open in a separate new tab in a browser. I've  added hover effect
 
 ## Gallery
 
-* This page has pictures of 6 different customers and it is showing the end results after using the personal stylist training and services.
+* This page has pictures of 6 different customers and it is showing the results after using the personal stylist training and services.
 
 ## Contact
 
-* Contact form is a main part on this site. User can contact by filling a form with topic of interest.
-There's also an aditional text field to include any additional questions.
+* The Contact form is the main part on this website. User can contact the personal stylist by filling a form with name , email and write any enquerie to her.
+There's also a botton on the home page that links to the contact page.
 
 ##  Future implementations
 
 
-* Add new page with personal training packages descriptions.
-* A blog site with fitness advises.
-* Login site for paid content including videos, exercise's how to, meal planning and healthy meals recipes.
+* Add new page displaying  social media examples .
+* A blog site with styles tips , seasonal trends, posting popular questions from customer and showing the answer on the website as a highlight in it .
+* A Login site for different types of paid content including stylist masterclass, selling customize color palettes to customer .
 
 
 [Back to Table of contents](#table-of-contents)

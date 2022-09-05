@@ -113,18 +113,22 @@ Main colours used in a project:
 
 ### Fonts 
 
-* As a main font I used sans serif , and as a backup I put roboto and more. 
+* As a main font I used sans serif , and as a backup I used roboto and more. 
 
 ### Images
 
 * I used images from [pexels.com](www.pexels.com) and there are credited in [credits](#credits) section.
+* I used images from [thispersondoesnotexist.com](www.this-person-does-not-exist.com) and there are credited in [credits](#credits) section.
+* I used images from [www.freepik.com](https://www.freepik.com) and there are credited in [credits](#credits) section.
+
+
 
 
 [Back to Table of contents](#table-of-contents)
 ___
 # Features
 
-The website consists of 3 pages. One of which is divided into 3 sections. Every page and section is accessible from the navigation menu.
+The website consists of 3 pages. Every page and section is accessible from the navigation menu.
 
 
 The website has below features:
@@ -135,10 +139,10 @@ The website has below features:
 * Navigation scheme:
 
     * On left side there is a logo. It can be used as navigation link to the main page.
-    * On right side there are three links or a burger menu.  It contains:
+    * On right side there are three links or a burger menu. It contains the following:
         * Home
-        * Contact
         * Gallery
+        * Contact
 
 
 

@@ -262,8 +262,8 @@ ___
     > User can find social media links at the botton of website to keep in touch with the stylist in that way they can check the lastest advice of new services.
 
 
-- I want to show my friend pictures of the fitness studio where we can join for a 2 on 1  personal training session.
-    > Gallery page has pictures of both the studio and sessions with other clients in development.
+- I want to show my family and friends pictures of her styling results .
+    > The gallery page has different pictures of different types of customers and their results. 
 
 
 ---

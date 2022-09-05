@@ -82,7 +82,7 @@ Also this website is the best place to show the different types of personal serv
 
 ## Structure of the website
 
-The website is designed to be easy and user-friendy on all type of devices. On desktop, tablet or mobile device there should be no difference for a user to have a fantastic experience. All parts are designed to achieve maximum user satisfaction. User will get some interaction from the interface as links and buttons will have a hover effects.
+The website is designed to be easy and user-friendy on all type of devices. On desktop, tablet or mobile device there should be no difference for a user to have a fantastic experience. All parts are designed to achieve maximum user satisfaction including the color palette that has been used. User will get some interaction from the interface as there are some effects in bottons of  the navbar.
 
 ## Wireframes
 
@@ -107,13 +107,13 @@ I used website balsamiq.cloud to create the wireframes for desktop, tablet and m
 
 Main colours used in a project:
 * background color: #ffffff
-* navigation bar color: #212429
-* footer color1: #f0f0f0
-* footer color2: #c0c0c0
+* navigation bar color: #2e1437
+* footer color1: #51425f
+
 
 ### Fonts 
 
-* As a main font I used Lato, and as a backup font sans-serif
+* As a main font I used sans serif , and as a backup I put roboto and more. 
 
 ### Images
 

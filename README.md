@@ -88,17 +88,43 @@ The website is designed to be easy and user-friendy on all type of devices. On d
 
 I used website balsamiq.cloud to create the wireframes for desktop, tablet and mobile view.
 
-## Desktop View
+## Desktop View Home
 
-![Desktop Wireframes](images/Desktop_View.png?raw=true)
+![Desktop Home Wireframes](docimages/website-home.png)
 
-## Tablet View
+## Desktop View Gallery
+![Desktop Gallery Wireframes](docimages/website-gallery.png)
 
-![Tablet Wireframes](images/Tablet_View.png?raw=true) 
+## Desktop View Form
+![Desktop Form Wireframes](docimages/website-form.png)
 
-## Mobile View
 
-![Mobile Wireframes](images/Mobile_view.png?raw=true) 
+## Tablet View Home
+
+![Tablet Home Wireframes](docimages/ipad-home.png) 
+
+## Tablet View Gallery
+
+![Tablet Gallery Wireframes](docimages/ipad-gallery.png) 
+
+## Tablet View Form
+
+![Tablet Form Wireframes](docimages/ipad-form.png) 
+
+
+## Mobile View Home
+
+![Mobile Home Wireframes](docimages/phone-home.png) 
+
+## Mobile View Gallery
+
+![Mobile Gallery Wireframes](docimages/phone-gallery.png) 
+
+## Mobile View Form
+
+![Mobile Form Wireframes](docimages/phone-form.png) 
+
+
 
 ## Surface
 
@@ -269,12 +295,11 @@ ___
 ---
 ## Issues found during site development
 
-* #### Footer not staying at the bottom of the screen in mobile devices
-![testing_issue_1](images/Screenshot_2022-05-03_at_11.20.57.png?raw=true)
+* #### Navbar not staying at the top and not displaying full width of the screen in ipad and mobiles. 
 
-When displaying the website on mobile devices, my footer would move to the middle of the screen instead of staying at the bottom, blocking important elements and damaging the overall user experience.
+When displaying the website on ipads and  mobile devices, my navigation bar didnt stick all the time at the top and it was not displayin the correct displaying , it would move if I wanted to scroll down and then It showed to be in the middle of the screen  ruining the users experience.
 
-> I fixed it by wrapping the whole page in a div that would act as a container, then setting it's minimum height to 100% of the viewport (vh) and giving it a position of relative. As it is relative it's child elements (In this case the footer) could be set with absolute position based on it.
+> I fixed it by wrapping the navigation bar in a div that would act as a container, .
 
 > Then I set the footer position to absolute, sticking to the bottom:0 
 

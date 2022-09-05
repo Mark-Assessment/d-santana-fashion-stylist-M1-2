@@ -409,28 +409,35 @@ I used this part of this code to the the testimony in homepage and then I modifi
 
 ### Images:
 
-#### Pexels.com:
-* [images/pexels-thisisengineering-3912953.jpg](https://www.pexels.com/photo/man-in-black-crew-neck-t-shirt-standing-in-front-of-boxing-gloves-3912953/) Photo by ThisIsEngineering from Pexels 
+#### freepik.com:
+* [assets/images/black-background.jpg](https://www.freepik.com/free-photo/attractive-woman-wearing-hat-posing-black-background_14482579.htm#query=background%20fashion&position=21&from_view=search) image by serhii_bobyk on Freepik
 
-* [images/pexels-thisisengineering-3912956.jpg](https://www.pexels.com/photo/person-holding-black-tablet-3912956/) Photo by ThisIsEngineering from Pexels
+* [assets/images/skirt-sweater.jpg](https://www.freepik.com/free-photo/set-with-fashionable-women-s-clothing-skirt-sweater-sandals-accessories-top-view-flat-lay_20083375.htm#page=2&query=clothes&position=12&from_view=search) image by pvproductions on freepik
 
-* [images/pexels-thisisengineering-3912952.jpg](https://www.pexels.com/photo/person-holding-black-smartphone-3912952/) Photo by ThisIsEngineering from Pexels 
+#### pexels.com:
+* [assets/images/pexels-aizhana-aldanova.jpg](https://www.pexels.com/photo/woman-wearing-white-shirt-and-yellow-skirt-sitting-on-brown-concrete-brick-stairs-983564/) Photo by Aizhana Aldanova from Pexels 
 
-* [images/pexels-pixabay-416717.jpg](https://www.pexels.com/photo/athlete-barbell-bodybuilder-bodybuilding-416717/) Photo by Pixabay from Pexels
+* [assets/images/pexels-anastasiya-gepp-2065200.jpg](https://www.pexels.com/photo/woman-standing-wearing-white-floral-lace-blouse-2065200/) Photo by Anastasiya Gepp from Pexels 
 
-* [images/pexels-bruno-bueno-2204196.jpg](https://www.pexels.com/photo/man-lying-while-doing-barbell-2204196/) Photo by Bruno Bueno from Pexels
+* [assets/images/pexels-godisable-jacob-1394882.jpg](https://www.pexels.com/photo/woman-standing-at-outdoors-while-holding-black-leather-bag-1394882/) Photo by Godisable Jacobs from Pexels 
 
-* [images/pexels-ivan-samkov-4162451.jpg](https://www.pexels.com/photo/black-and-red-dumbbells-4162451/) Photo by Ivan Samkov from Pexels
+* [assets/images/pexels-konstantin-mishchenko-1926769.jpg](https://www.pexels.com/photo/woman-standing-indoor-1926769/) Photo by Konstantin Mischchenko from Pexels 
 
-* [images/pexels-amar-preciado-9958667.jpg"](https://www.pexels.com/photo/people-in-gym-working-out-with-weightlifting-9958667/) Photo by Amar Preciado from Pexels
 
-* [images/pexels-andres-ayrton-6551097.jpg](https://www.pexels.com/photo/young-asian-male-trainer-checking-fitness-equipment-while-instructing-overweight-female-6551097/) Photo by Andres  Ayrton from Pexels
+#### thispersondoesnotexist.com:
+* [assets/images/profile-picture-nina.webp](/this-person-does-not-exist.com) Photo by 
 
-* [images/pexels-koolshooters-9944640.jpg](https://www.pexels.com/photo/two-people-doing-boxing-9944640/) Photo by KoolShooters from Pexels
+* [assets/images/avatar-millie.webp](/this-person-does-not-exist.com) Photo by 
 
-* [images/pexels-thisisengineering-3912516.jpg](https://www.pexels.com/photo/man-in-black-crew-neck-t-shirt-standing-inside-boxing-ring-3912516/) Photo by ThisIsEngineering from Pexels 
 
-* [images/pexels-thisisengineering-3912952.jpg](https://www.pexels.com/photo/person-holding-black-smartphone-3912952/) Photo by ThisIsEngineering from Pexels 
+* [assets/images/avatar-andrea.webp](/this-person-does-not-exist.com) Photo by 
+
+#### unsplash.com:
+
+* [assets/images/vladimir-yelizarov-2OhHpRu2Fhg-unsplash.jpg](https://unsplash.com/photos/2OhHpRu2Fhg) Photo by Vladimir Yelizarov
+
+#### burst.shopify.com:
+* [assets/images/womens-summer-fashion.jpg](https://burst.shopify.com/photos/womens-summer-fashion?q=fashion) Photo by 
 
 
 [Back to Table of contents](#table-of-contents)

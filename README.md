@@ -8,7 +8,7 @@ Website presents Domenica's portfolio-1 project for a Fashion Personal Stylist.
 Users will be able to find interesting content in easy and simple way.
 
 This project is for educational purposes and can not be used as a template for a business use.
-Main aim is to build responsive website with HTML and CSS only. I will use Bootstrap framework to keep website consent and clear.
+Main aim is to build responsive website with HTML and CSS only. I will use Bootstrap framework to keep website consistent and clear.
 
 
 ## [View life website in github pages](https://domenicasantana.github.io/fashion-stylist/index.html)
@@ -425,19 +425,19 @@ I used this part of this code to the the testimony in homepage and then I modifi
 
 
 #### thispersondoesnotexist.com:
-* [assets/images/profile-picture-nina.webp](/this-person-does-not-exist.com) Photo by 
+* [assets/images/profile-picture-nina.webp](/this-person-does-not-exist.com) Photo by AIfrom thispersondoesnotexist
 
-* [assets/images/avatar-millie.webp](/this-person-does-not-exist.com) Photo by 
+* [assets/images/avatar-millie.webp](/this-person-does-not-exist.com) Photo by AI from thispersondoesnotexist
 
 
-* [assets/images/avatar-andrea.webp](/this-person-does-not-exist.com) Photo by 
+* [assets/images/avatar-andrea.webp](/this-person-does-not-exist.com) Photo by AI photo from thispersondoesnotexist
 
 #### unsplash.com:
 
-* [assets/images/vladimir-yelizarov-2OhHpRu2Fhg-unsplash.jpg](https://unsplash.com/photos/2OhHpRu2Fhg) Photo by Vladimir Yelizarov
+* [assets/images/vladimir-yelizarov-2OhHpRu2Fhg-unsplash.jpg](https://unsplash.com/photos/2OhHpRu2Fhg) Photo by Vladimir Yelizarov from unsplash
 
 #### burst.shopify.com:
-* [assets/images/womens-summer-fashion.jpg](https://burst.shopify.com/photos/womens-summer-fashion?q=fashion) Photo by 
+* [assets/images/womens-summer-fashion.jpg](https://burst.shopify.com/photos/womens-summer-fashion?q=fashion) Photo by Sarah Pflug from burst shopify
 
 
 [Back to Table of contents](#table-of-contents)
@@ -449,17 +449,17 @@ ___
 
 ### Home Page
 
-![Home Page](images/Screenshot_home_page.png)
-![About-Me](images/Screenshot_about_me.png)
-![Testimonials](images/Screenshot_testimonials_page.png)
+![Home Page](docimages/Screenshot-home-1.png)
+![About-Me-instroduction](docimages/Screenshot-home-2.png)
+![Testimonials](docimages/screenshot-footer-home.png)
 
 ### Contact Page
 
-![Contact Page](images/Screenshot_contact_page.png)
+![Contact Page](docimages/Screenshot-form.png)
 
 ### Gallery Page
 
-![Gallery Page](images/screenshot_gallery.png)
+![Gallery Page](docimages/Screenshot-gallery.png)
 
 
 [Back to Table of contents](#table-of-contents)

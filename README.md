@@ -377,11 +377,14 @@ ___
 
     * [css-tricks.com](https://css-tricks.com/)
 
-    * I used Startbootstrap's Gallery with Images Thumbnails template: [template](https://startbootstrap.com/snippets/thumbnail-gallery)
+    * I used Startbootstrap's Gallery with Images Thumbnails template: [template](https://startbootstrap.com/snippets/thumbnail-gallery) 
 
-    * [getbootstrap.com/docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-        I used code for navbar and the form in contact page from Bootstrap.
-    * [stackoverflow.com](https://stackoverflow.com/) I used stack overflow constantly whenever I was unsure about HTML or CSS syntax or wanted to find an easier more stream-lined way of doing things
+     * [mdbootstrap.com](https://mdbootstrap.com/docs/standard/navigation/footer/)
+     I used this code for the footer and then I customized with my own changes also using bootstrap. 
+
+
+    
+    * [stackoverflow.com](https://stackoverflow.com/) I used stack overflow constantly whenever I was unsure about HTML or CSS syntax or wanted to find an easier more stream-lined way of doing things.
    
 
 * Other Tools:
@@ -390,16 +393,15 @@ ___
 
 ### Code
 
-
-* Bootstrap: [Navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
-* MDBootstrap: [Sticky footer](https://mdbootstrap.com/snippets/standard/mdbootstrap/2886162#html-tab-view)
-* Bootstrap: [Form](https://getbootstrap.com/docs/4.5/components/forms/)
-* [mdbootstrap.com](https://mdbootstrap.com/snippets/standard/mdbootstrap/2886162#html-tab-view) I used and modified this footer with social media icons
-* [https://bbbootstrap.com/](https://bbbootstrap.com/snippets/simple-contact-form-74408136) I used and modified this form
+* Bootdey: [services list](https://www.bootdey.com/snippets/view/Services)
+I used this list template and then modified it . 
+* Mdbootstrap: [Form](https://mdbootstrap.com/docs/standard/extended/registration/)
+I used and modified this form 
 
 ### General Content:
 
-*  Testimonials:  [trustpilot.com](https://uk.trustpilot.com/review/westlondonpersonaltraining.co.uk)
+*  Testimonials:  [bbbotstrao.com](https://bbbootstrap.com/snippets/bootstrap-5-user-testimonial-star-ratings-51527336)
+I used this part of this code to the the testimony in homepage and then I modified it .
 
 
 

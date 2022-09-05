@@ -66,19 +66,19 @@ Also this website is the best place to show the different types of personal serv
 
 ### As a business owner:
 * I would like to present myself and my offer on the website clearly to potential customers.
-* I need to make sure that my current and new customers will find a professional help with their personal or group training programs.
+* I need to make sure that my current and new customers will find a professional help and motivation in the website .
 * I want my customers to be able to learn how to use my website intuitively and easily.
 * I would like to build and maintain relationship with potential and current customers.
 
 ### As a new customer:
-* I wish to find information about the personal trainer and check his qualifications.
-* I would like to be able to contact the trainer with any questions I may have about his services. 
-* I want to join in a fitness group with professional trainer, to find motivation and spend time actively.
+* I wish to find information about the personal the services that the stylist offers .
+* I would like to be able to contact the personal stylist with any questions I may have about her services. 
+* I want to hire her as my personal stylist , to understand how to dress myself , feel confident  and find a way to use everything I have in my closet without spending more money ans reusing what I already have.
 
 ### As a returning customer:
 
-* I need to contact my trainer to reschedule my session.
-* I want to show my friend a gallery of pictures of the fitness studio where we can join for a group personal training session.
+* I need to keep contacting my personal stylist through the website to buy new sessions, products or serivices that she offers.
+* I want to refer this personal stylist to my friends or family and show them the gallery of pictures with all the results of previous customers in that way they will feel reasured of buying her services that she offers. 
 
 ## Structure of the website
 

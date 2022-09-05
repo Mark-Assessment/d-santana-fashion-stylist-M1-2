@@ -295,41 +295,24 @@ ___
 ---
 ## Issues found during site development
 
-* #### Navbar not staying at the top and not displaying full width of the screen in ipad and mobiles. 
+* #### Navbar links  displaying on the wrong side of the screen in desktops devices. 
 
-When displaying the website on ipads and  mobile devices, my navigation bar didnt stick all the time at the top and it was not displayin the correct displaying , it would move if I wanted to scroll down and then It showed to be in the middle of the screen  ruining the users experience.
+When displaying the website on desktops devices , my navbar bar elements displayed on the left side of the screen right next to the logo and it making it look too crowded ruining the users experience.
 
-> I fixed it by wrapping the navigation bar in a div that would act as a container, .
-
-> Then I set the footer position to absolute, sticking to the bottom:0 
+> I fixed it by changing the bootstrap class name to ms-auto .
 
 
+* #### The call to action botton was not centered in tablets , mobiles devices
 
-* #### Form in Contact Page being out of place in mobile devices
 
-![testing_issue_1](images/Screenshot_2022-05-03_at_11.59.47.png?raw=true)
+When displayed on tablets and mobile devices the botton on the home page was looking out of placed , it was displayed on the left side. 
 
-When displayed on mobile devices the form in the contact page would look out of placed and misaligned
-
-> I fixed this by adding a media querie that would add an additional padding of 300px when the height of the screen dropped to below 1200px (Tablets and mobile devices).
-
-> I also had to set the top margin to 0 as it was pushing the whole div downwards
-
-> This pushes the form to a more centred position therefore improving user experience, below the solution:
-
-@media screen and (max-width:1200px) {
-
-.contact {
-  padding-top: 300px;
-  margin-top: 0;
-    
-  }
-
+> I fixed this by taking it out of the previous div and giving it a new div with the bootstrap classes col and text-center. 
 
 
 ## Performance testing
 
-I run [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance of the website.
+I run [Lighthouse]() tool to check performance of the website.
 I had to do several changes to improve performance, specially replacing images for lighter formats such as .webp which improved the performance significantly. Screenshots are presented below:
 
 

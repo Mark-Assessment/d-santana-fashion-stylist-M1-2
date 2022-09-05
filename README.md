@@ -119,7 +119,11 @@ Main colours used in a project:
 
 * I used images from [pexels.com](www.pexels.com) and there are credited in [credits](#credits) section.
 * I used images from [thispersondoesnotexist.com](www.this-person-does-not-exist.com) and there are credited in [credits](#credits) section.
-* I used images from [www.freepik.com](https://www.freepik.com) and there are credited in [credits](#credits) section.
+* I used images from [freepik.com](www.freepik.com) and there are credited in [credits](#credits) section.
+* I used images from [unsplash.com](www.unsplash.com) and there are credited in [credits](#credits) section.
+
+* I used images from [burst.shopify.com](www.burst.shopify.com) and there are credited in [credits](#credits) section.
+
 
 
 
@@ -128,17 +132,17 @@ Main colours used in a project:
 ___
 # Features
 
-The website consists of 3 pages. Every page and section is accessible from the navigation menu.
+The website consists of three pages. Every page and section is accessible from the navigation menu.
 
 
-The website has below features:
+The website has the folowing features:
 
 ## Navigation bar
 
 * #### Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by a change into a burger menu.
 * Navigation scheme:
 
-    * On left side there is a logo. It can be used as navigation link to the main page.
+    * On left side there I put a logo (personal stylist name). It can be used as navigation link to the main page.
     * On right side there are three links or a burger menu. It contains the following:
         * Home
         * Gallery
@@ -148,24 +152,24 @@ The website has below features:
 
 ## Footer
 
-* Footer is consistent on all pages. It has social links centered on it.
-Each link will open in a separate tab in a browser. I've also added hover effects to each of them based on the color of the social media site.
+* Footer is always consistent on all pages, it has social links centered on it.
+Each link will open in a separate new tab in a browser. I've  added hover effects to each of them and it is based on the color pallete that has been choosen for the website.
 
 ## Home
 
-* ### About section
+* ### Services ,About section
 
-    * About section includes a description of the personal trainer's personna, qualities, qualifications and approach to personal training
+    * This section includes personal stylist qualities and skills that she offers to her customer . 
 
 * ### Testimonials section
 
-    * This section includes 3 separate testimonials from former and current clients of the personal trainer in question.
+    * This section includes 3 separate testimonials from current clients of the personal stylist.
 
 
 
 ## Gallery
 
-* This page has pictures of 1 on 1 training session plus pictures of the studio used for the training and its facilities 
+* This page has pictures of 6 different customers and it is showing the end results after using the personal stylist training and services.
 
 ## Contact
 

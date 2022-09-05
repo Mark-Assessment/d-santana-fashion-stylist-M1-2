@@ -307,13 +307,17 @@ When displaying the website on desktops devices , my navbar bar elements display
 
 When displayed on tablets and mobile devices the botton on the home page was looking out of placed , it was displayed on the left side. 
 
-> I fixed this by taking it out of the previous div and giving it a new div with the bootstrap classes col and text-center. 
+> I fixed this by taking it out of the buttob out of the previous div and giving it a new div with the bootstrap classes col and text-center. 
 
 
 ## Performance testing
 
-I run [Lighthouse]() tool to check performance of the website.
+I run [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es) tool to check performance of the website.
 I had to do several changes to improve performance, specially replacing images for lighter formats such as .webp which improved the performance significantly. Screenshots are presented below:
+
+Before:
+
+![performance before](docimages/lighthouse-before.png)
 
 
 
@@ -343,20 +347,20 @@ I used push command in Gitpod to save changes into GitHub.
 
 To deploy a project I had to:
 
-* Log in to GitHub and click on repository to deploy ([portfolio-project-1](https://yoesk8.github.io/portfolio-project-1/))
+* Log in to GitHub and click on repository to deploy ([fashion-stylist](https://domenicasantana.github.io/fashion-stylist/index.html))
 * select `Settings` and find GitHub Pages section at the very bottom of the page
 * from source select `root` and then `main` branch.
 * click `save` and page was deployed after auto-refresh.
->  Your site is published at https://yoesk8.github.io/portfolio-project-1/
+>  Your site is published at https://domenicasantana.github.io/fashion-stylist/index.html
 
 To run localy:
-* Log in to GitHub and click on repository to download ([portfolio-project-1](https://yoesk8.github.io/portfolio-project-1/))
+* Log in to GitHub and click on repository to download ([fashion-stylist](https://domenicasantana.github.io/fashion-stylist/index.htmls))
 * select `Code` and click Download the ZIP file.
 * after download you can extract the file and use it in your local environment 
 
 Alternatively you can [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 or [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
-this repository ([portfolio-project-1](https://yoesk8.github.io/portfolio-project-1/)) into your github account.
+this repository ([fashion-stylist](https://github.com/domenicasantana/fashion-stylist)) into your github account.
 
 [Back to Table of contents](#table-of-contents)
 ___
@@ -365,11 +369,15 @@ ___
 
 * To complete this project I used Code Institute student template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
+* I used Startbootstrap's Full Width Pics template: [ template](https://startbootstrap.com/template/full-width-pics)
+
 * Ideas and knowledge library:
 
     * [w3schools.com](https://www.w3schools.com)
 
     * [css-tricks.com](https://css-tricks.com/)
+
+    * I used Startbootstrap's Gallery with Images Thumbnails template: [template](https://startbootstrap.com/snippets/thumbnail-gallery)
 
     * [getbootstrap.com/docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
         I used code for navbar and the form in contact page from Bootstrap.
@@ -378,7 +386,7 @@ ___
 
 * Other Tools:
   
-   * [ezgif.com](https://ezgif.com/jpg-to-webp/) I used ezgif to convert my images to lighter formats which improved the performance of the site significantly
+   * [convertio.co](https://convertio.co/download/8f5e5e55e6f0ba84bea69ead1b619d2dd0cbf7/) I used convertio to convert my images to lighter formats which improved the performance of the site significantly.
 
 ### Code
 

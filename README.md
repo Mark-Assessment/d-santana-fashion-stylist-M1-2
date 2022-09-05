@@ -198,7 +198,7 @@ ___
 * Bootstrap as a CSS framework to keep responsive, mobile first aproach.
 
 ### Font Awesome
-* As an icon library for a social links.
+* As an icon library for a social links and the gallery header style.
 
 
 ### GitHub
@@ -223,13 +223,13 @@ ___
 
 ## Functionality testing 
 
- I used Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
+ I used Chrome developer tools throughout the project for testing and solving problems with responsiveness and for style issues.
 
 
 ## Compatibility testing
  Site was tested across multiple virtual mobile devices and browsers. I checked all supported devices in Chrome developer tools. 
  
- I tested on hardware devices such as: Ipad air with iOS, Iphone 13 mini with iOS 15.4, Macbook air with MacOS
+ I tested on hardware devices such as: Ipad air with iOS, Iphone SE mini with iOS , Macbook air with MacOS
 
 
 ## User stories testing
@@ -237,29 +237,29 @@ ___
 ### As a business owner:
 
 - I would like to present myself and my offer on the website clearly to potential customers.
-    > Name, photo of the instructor and qualifications are on the Home Page in the About section
+    >The name of the personal stylist is her logo and at the same time , it has been display in the navigation bar at all times .Her photo is the first image presented to the customers  in the home page , and her proven skills is also highlited in the home page. 
 
-- I need to make sure that my current and new customers will be able to contact me with any questions on training, exercises or business enquiries
-    > Customers can achieve this by contacting through contact form. They can choose their topic of interest or goal and describe their needs in a message box.
+- I need to make sure that my current and new customers will be able to always contact me with any questions and that it is easy to find the form to do it . 
+    > Customers can achieve this by typing the info in  contact form. Customers  can choose any  topic of interest and problems that they may encounter  in a message box.
 
 - I want my customers to be able to learn how to use my website intuitively and easily.
-    > Each site has a fixed navigation menu and is accessible at all times. All content is presented with minimalistic approach.
+    > Each page has a fixed navigation menu and is accessible at all times. All content was design and presented with a minimalistic approach.
 
-- I would like to build and maintain relationship with potential and current customers.
-    > Customers are able to find a links to social channels at the bottom of each page. Alternatively they can contact via the contact form.
+- I would like to keep building and maintain my relationship with potential and current customers.
+    > Customers are able to find all links to social channels at the bottom of each page. Apart from the botton icons they can contact me with the contact form.
 
 
 ### As a new customer:
-- I wish to find information about the personal trainer and check his qualifications.
-    > User can see essential description on the home page, specifically in about section.
+- I wish to find information about the personal stylist and check her previous achievement with the customers reviews and pictures proving this.
+    > User can see all this essential description on the home page.
 
-- I would like to get in touch with the trainer to ask him about his approach on programing training cycles.
-    > User can find a contact form in contact page. 
+- I would like to get in touch with the personal stylist to ask about my seasonal palette and the typer of clothes that looks the best in me .
+    > User can find a contact form in contact page to get in touch . 
 
 
 ### As a returning customer:
-- I need to contact my trainer to reschedule my session.
-    > User can find an option 'Reschedule my session' in the contact form in contact page. Alternatively can use social channels found at the bottom of the page.
+- I need to contact my personal stylist to do followups of new questions that I may have , also how to keep styling myself including the new trends.
+    > User can find social media links at the botton of website to keep in touch with the stylist in that way they can check the lastest advice of new services.
 
 
 - I want to show my friend pictures of the fitness studio where we can join for a 2 on 1  personal training session.

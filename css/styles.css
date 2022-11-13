@@ -24,7 +24,6 @@
 }
 
   
-
 /* body color */
 
 body {
@@ -49,9 +48,7 @@ body {
     margin-top: 200px;
   }
 
-  
 }
-
 
 .signup-form {
    margin-top: 150px;
@@ -99,7 +96,6 @@ body {
   
 }
 
-
 /* Testimonials style */
 
 body{
@@ -137,10 +133,7 @@ body{
   margin-right: auto;
 }
 
-
-/* Services Feature style */
-
-                        
+/* Services Feature style */               
 
 #services .services-top {
     padding: 70px 0 50px;
@@ -177,6 +170,3 @@ body{
     color: #906090;
     font-weight:bold;
 }  
-
-
-

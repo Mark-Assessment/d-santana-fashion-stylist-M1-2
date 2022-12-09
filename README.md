@@ -449,17 +449,17 @@ ___
 
 ### Home Page
 
-![Home Page](docimages/Screenshot-home-1.png)
-![About-Me-instroduction](docimages/Screenshot-home-2.png)
+![Home Page](docimages/screenshot-home-1.png)
+![About-Me-instroduction](docimages/screenshot-home-2.png)
 ![Testimonials](docimages/screenshot-footer-home.png)
 
 ### Contact Page
 
-![Contact Page](docimages/Screenshot-form.png)
+![Contact Page](docimages/screenshot-form.png)
 
 ### Gallery Page
 
-![Gallery Page](docimages/Screenshot-gallery.png)
+![Gallery Page](docimages/screenshot-gallery.png)
 
 
 [Back to Table of contents](#table-of-contents)

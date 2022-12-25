@@ -296,19 +296,32 @@ ___
 ## Issues found during site development
 
 * #### Navbar links  displaying on the wrong side of the screen in desktops devices. 
+![navbar error before](docimages/error-navbar1.png) 
+
 
 When displaying the website on desktops devices , my navbar bar elements displayed on the left side of the screen right next to the logo and it making it look too crowded ruining the users experience.
 
 > I fixed it by changing the bootstrap class name to ms-auto .
+![correct navbar](docimages/correct-navbar.png) 
 
 
-* #### The call to action botton was not centered in tablets , mobiles devices
+* #### The call to action button was not centered in tablets and mobiles devices.
+![button error before](docimages/error-button.png) 
 
 
-When displayed on tablets and mobile devices the botton on the home page was looking out of placed , it was displayed on the left side. 
+When displayed on tablets and mobile devices the button on the home page was looking out of placed and it was displayed on the left side of the screen. 
 
-> I fixed this by taking it out of the buttob out of the previous div and giving it a new div with the bootstrap classes col and text-center. 
+> I fixed this by wrapping it with a div , and using the bootstrap classes col and text-center. 
+![correct button](docimages/correct-button.png)
 
+* #### Text Fields in the form were not been cleared after pressing the submit button.
+![form mistake before](docimages/form-error.png)
+
+The form was not been cleared after pressing submit button.
+
+> I fixed this by adding the  method and action attributes in the form element .
+
+![correct form](docimages/correctlink-form.png)
 
 ## Performance testing
 
@@ -333,8 +346,13 @@ I noticed that this tests scores vary from time to time and depends on external 
  
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
 
+ ![css validator](docimages/css-validator.png)
+
 
  * [Nu Html Checker](https://validator.w3.org/) to test HTML
+
+ ![html validator](docimages/html-validator.png)
+
 
 
 [Back to Table of contents](#table-of-contents)

@@ -264,20 +264,43 @@ ___
 
 - Feature: I would like to present myself and my offer on the website clearly to potential customers.
     > Expected Result: The name of the personal stylist is her logo and at the same time , it has been display in the navigation bar at all times .Her photo is the first image presented to the customers  in the home page , and her proven skills is also highlited in the home page . 
-    -Result : PASS
+    Result : PASS
+
+<details><summary>Picture</summary>
+<img src="docimages/landing-page-result.png" alt="Landing page"/>
+</details>
+<br>
 
 - Feature: I need to make sure that my current and new customers will be able to always contact me with any questions and that it is easy to find the form to do it . 
     > Expected Result: Customers can achieve this by typing the info in  contact form. Customers  can choose any  topic of interest and problems that they may encounter  in a message box.
     -Result: PASS
+ <details><summary>Picture</summary>
+<img src="docimages/form-button-feature.png" alt="form button feature"/>
+<img src="docimages/form-question-feature.png" alt="form question feature"/>
+</details>
+<br>  
 
 - Feature: I want my customers to be able to learn how to use my website intuitively and easily.
     > Expected Result: Each page has a fixed navigation menu and is accessible at all times. All content was design and presented with a minimalistic approach.
     -Result: PASS
 
+<details><summary>Picture</summary>
+<img src="docimages/nav-access.png" alt="navbar access"/>
+<img src="docimages/navbar-access-form.png" alt="navbar access form"/>
+<img src="docimages/navbar-access-page.png" alt="navbar access landing page"/>
+</details>
+<br>  
+
 - Feature: I would like to keep building and maintain my relationship with potential and current customers.
     > Expected Result: Customers are able to find all links to social channels at the bottom of each page. Apart from the botton icons they can contact me with the contact form.
     -Result: PASS
 
+<details><summary>Picture</summary>
+<img src="docimages/socialmedia-acc-form.png" alt="social media channels"/>
+<img src="docimages/socialmedia-acc-gallery.png" alt="social media gallery"/>
+<img src="docimages/socialmedia-acc-mainpage.png" alt="social media landing page"/>
+</details>
+<br>  
 
 ### As a new customer:
 - I wish to find information about the personal stylist and check her previous achievement with the customers reviews and pictures proving this.
